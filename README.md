@@ -1,4 +1,4 @@
-## This project based on scrimba platform
+## This project is taken from scrimba course
 
 
 
